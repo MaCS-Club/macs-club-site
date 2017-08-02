@@ -2,6 +2,7 @@
 title: Hello, World! на Scala под Android
 author: BeiZero
 tags: scala, android, scaloid
+description: В данной статье я постараюсь рассказать о том как начать разрабатывать приложения под Android используя Scala и SBT. Предполагается что у вас уже установлены Android SDK и SBT.
 ---
 В данной статье я постараюсь рассказать о том как начать разрабатывать приложения под Android используя Scala и SBT. Предполагается что у вас уже установлены Android SDK и SBT.
 <!--more-->
