@@ -2,6 +2,8 @@
 title: Контакты
 ---
 
-Твиттер нашего клуба: [MaCS_63](https://twitter.com/MaCS_63)
+Твиттер нашего клуба: [MaCS-Club RU](https://twitter.com/macs_club_ru)
 
-Основатель клуба: [BeiZero](https://twitter.com/BeiZero), [E-mail](mailto:fedorov.igor95@gmail.com)
+Наш Telegram: macs_club / macs_club_chat
+
+Лекторы: [BeiZero](https://twitter.com/BeiZero), [Enybady](https://twitter.com/Enybady1)
