@@ -1,6 +1,6 @@
 # macs-club-site
 
-Деплой сайта:
+## Деплой сайта:
 ```
-stack exec site deploy
+./build.sh
 ```
